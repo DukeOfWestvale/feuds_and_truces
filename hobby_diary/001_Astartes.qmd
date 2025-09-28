@@ -1,49 +1,67 @@
 ---
-title: Astartes
-subtitle: A Black Templars Project and some test models
+title: "Episode 001: Astartes"
+subtitle: "A Black Templars Project and some test models"
 toc: true
 ---
 
-In addition to this digital hobby diary I also like to write in a physical hobby diary, finding the stream of conciousness style writing comes more naturally with that medium (and, I will note that I find stream of conciousness writing to be very relaxing and mindful). In that I recently wrote a couple of pages of lore about a new homebrew chapter (The Lunar Sanguinomancers) and described what I really wanted out of an Astartes project. The aim of all that was to commit to a Blood Angels successor chapter that I'd been doing some test models for but, while doing so, I noted that the Black Templars were one of two loyal Marine Chapters I felt an association with (the other being Salamanders). That little note to myself quickly grew into the recognition that if I'm going to do a 'proper' Space Marine army project, it should be one of the chapters I feel some nostalgia and affinity for. After four days of thinking it through I committed to the project by ordering a box of Black Templar Crusaders. Let's look at what I went through to get to this point. 
 
-## Scratching the itch to paint Space Marines
+
+# Introduction
+
+This is the story of how I set out to paint some Warhammer Fantasy Chaos Warriors and ended up starting a Black Templars collection. The crux of this hobby diary entry is how important nostalgia and a sense of *connection* to what I'm painting is important to me. 
+
+As mentioned on the Introduction page, this site is actually the third iteration of my hobby diary (the first being some random word documents, the second a physical journal). When I moved to Luxembourg a just under two months ago I started to write in a physical book again, since I find it more relaxing than typing, but have since switched to this digital version. After finally getting into painting some test models (below), I wrote a piece of lore in support of an idea for a Blood Angels Successor homebrew chapter (The Lunar Sanguinomancers) and outlined some information about my painting process. At the end of writing, I also made a physical note to myself that while I really liked the rules for the Blood Angels, they weren't really a chapter I had any real connection to. 
+
+After a bit of musing and soul-searching, I realised I had a chance to do a project that melded both my old and new views on Space Marines in a way that was simultaneously "nostalgia fix" and "new beginnings", which is exactly what I want.
+
+# Scratching the itch to paint Space Marines
 
 After so long away from any form of painting I was expecting to dive into my Warhammer Fantasy Chaos Army. I have some really cool old metal miniatures to work on and absolutely loved the 6th edition Chaos knights I'd painted previously, who I thought looked sinister and glorious in their black metal armour (that's foreshadowing, FYI). But when I did set up my models what I really felt like painting was something involving stippling. I really enjoy the rough, textured look it creates and it's an enjoyable process. Somehow I decided this would be best applied to Space Marine armour, and from my bag of Astartes bits I assembled the bodies of nine marines: three assault intercessors, two infiltrators, and four intercessors. 
 
+## The test models
+
+#### Salamander
+
+![Salamander](../hobby_Diary/images/astartes_test_models/Salamanders_1.jpg)
+![Salamander](../hobby_Diary/images/astartes_test_models/Salamanders_2.jpg)
+
 First up was a test model for the Salamanders, wet blending and stippling a dark green (Army Painter Hardened Carapace), lighter green (Necrotic Flesh) and yellow (Desert Yellow), with black shoulder pads (Contrast Black Templar). I'm somewhat happy with the result, though before I completely finished I realised that the colour scheme just doesn't pop enough. It's essentially drab green, rather than vibrant, and unlike the previous test model I'd done for Salamanders with oil over metallics, it didn't excite me. 
 
-![Salamander](../Hobby_Diary/images/astartes_test_models/Salamanders_1.jpg){.width=425}
-![Salamander](../Hobby_Diary/images/astartes_test_models/Salamanders_2.jpg){.width=425}
+#### Lunar Sanguinomancer
+
+![Lunar Sanguinomancer, first test](../hobby_diary/images/astartes_test_models/Lunar_Sanguinomacer_1.jpg)
+
+![Lunar Sanguinomancer, Sergeant](../hobby_diary/images/astartes_test_models/Lunar_Sanguinomacer_2.jpg)
+
+
 
 The second test was something I'd wanted to emulate for awhile, Migsula's Blood Angels in metallic red. I didn't want to just copy this scheme exactly, and going through my saved Astartes images on Instagram I found two pieces of art depicting a decidedly French marine in metallic red and blue armour split down the middle, but with the torso painted a pale, rich cream. The look was very Crusader, very Chivilrous, and I liked the noble, knightly aesthetic. I painted this with a base (stippled) of Army Painter Hardened Carapace (because I'm now in an apartment and can't use a rattlecan), then stippled True Brass and Shining Silver as a type of zenithal base coat. Over this I applied Contrast Blood Angels Red and Contrast Talassar Blue. The bare headed marines were painted with a general skin mix - layers of diluted Contrast Skeleton Horde, Guilliman Flesh, and heavily diluted Shysh Purple, sometimes alternating with highlights of diluted Citadel Ulthuan Grey. The torso was painted with layers of Ulthuan Grey and coats of Skeleton Horde. For one of the marines, and then after these photos the other two, I applied a final layer of Ulthuan Grey to make the torse sections clearly 'white' instead of 'dirty cream'. Looking at the photos, I think I actually prefer dirty cream.
 
-![Lunar Sanguinomancer, first test](../Hobby_Diary/images/astartes_test_models/Lunar_Sanguinomacer_1.jpg)
-
-![Lunar Sanguinomancer, Sergeant](../Hobby_Diary/images/astartes_test_models/Lunar_Sanguinomacer_2.jpg)
-
-![Lunar Sanguinomancer, unit](../Hobby_Diary/images/astartes_test_models/Lunar_Sanguinomacer_8.jpg)
+![Lunar Sanguinomancer, unit](../hobby_diary/images/astartes_test_models/Lunar_Sanguinomacer_8.jpg)
 
 I like these models. The blue really pops, the red pops, I'm reasonably happy with the interaction between the metallics and the contrast. But somewhere it falls over for me - it's not quite what I had in mind compared with the original artwork and I don't feel that it captures the noble, knightly aspect I wanted. By this stage I'd written the lore piece for the Lunar Sanguinomancers (which I did enjoy and might pick back up again one day), and written about what I really wanted my Astartes to look like, and I just wasn't feeling like this was something I wanted to take further. Great fun, really enjoyed the test models, happy to leave it as is. 
 
+#### Blood Angel
+
+![Blood Angel](../hobby_diary/images/astartes_test_models/Blood_Angel.jpg)
+
 The final test model, which was painted concurrently with one more model that I'll show at the very end, was a Blood Angel. Basically, I liked the metallic red, I'd looked back over a lot of Migsula's Blood Angels (mostly for the 'noble Astartes' aspect, but always appreciating the paint job), and I thought I'd give this a go and see what I could do with it.
 
-![Blood Angel](../Hobby_Diary/images/astartes_test_models/Blood_Angel.jpg)
-
-![Blood Angel](../Hobby_Diary/images/astartes_test_models/Blood_Angel_2.jpg)
+![Blood Angel](../hobby_diary/images/astartes_test_models/Blood_Angel_2.jpg)
 
 There's a lot to like with this scheme. It's just so bright and eye catching, you know that it will show up well on the gaming table (and 'as a gaming piece' is a powerful driver here, more below). However, something about this just feels a bit wrong to me. Maybe it's because of the stupid term 'slapchop' which I've seen around. Basically, I spend some time getting the stippling base coat just right (same as above, True Brass and Shining Silver), then apply Contrast Blood Angels Red and voila. I know there's a lot more to it, and before I judge it I should probably go back in and finish this model, taking my time with chipping and other details. As I said, I did this concurrently with another model (which the title gives away), and I think if I had more of a personal connection with the Blood Angels I'd be happy to work on this scheme. But, as is the focus of this entry, I've ended up going with something that I do feel more of an affinity for. 
 
-## Noble Astartes
+## My views on Astartes
 
-At the heart of this post is the idea that over the last few years I've really re-developed and refined my viewpoint and vision of Space Marines and I want to capture this with an army. I didn't really get into Space Marines when I first got into Warhammer, though I enjoyed reading a few of their stories in WD articles and did like some of the models (the 'new' Rhino and then Predator kits coming out in the early 2000s coincided with my start in the hobby). Then when I got back into Warhammer with 40k in 2016 I somehow started with Tau, and Space Marines were the 'too good' poster army. Then as I discovered the more Grimdark view of 40k they became the brainwashed child-soldiers of the facist Imperium. Now I've come around to seeing them as somewhere in between, or perhaps all of, these things: they have elements that are heroic and noble, yet are inherently tragic. I've come to appreciate their baroque armour, antique suits of power armour that they wear with a price and don't fully understand. They have individuality, flaws, and brotherhood. 
+At the heart of this post is the idea that over the last few years I've really re-developed and refined my viewpoint and vision of Space Marines and I want to capture this with an army. I didn't really get into Space Marines when I first got into Warhammer, though I enjoyed reading a few of their stories in WD articles and did like some of the models (the 'new' Rhino and then Predator kits coming out in the early 2000s coincided with my start in the hobby). Then when I got back into Warhammer with 40k in 2016 I somehow started with Tau, and Space Marines were the 'too good' poster army. Then as I discovered the more Grimdark view of 40k they became the brainwashed child-soldiers of the facist Imperium. Now I've come around to seeing them as somewhere in between, or perhaps all of, these things: they have elements that are heroic and noble, yet are inherently tragic. I've come to appreciate their baroque armour, antique suits of power armour that they wear with a price and don't fully understand. They have individuality, flaws, and brotherhood. All of this comes together in a few ways:
 
 ### Baroque aesthetic
 
 Perhaps the most powerful influence on my view of the Astartes is the idea of them as baroque warriors. Their armour is truly ancient, devised and in many cases built during a time of wonder that is barely understood. It is futuristic and ancient at the same time. It's also massive, physically imposing and more like a statue than a suit of metal armour, yet often adorned with intricate art work or reliefs. The idea of reliefs, idols and scripture plays an important part in the aesthetic which I've come to really appreciate, and has driven a minor interest in religious art for me. 
 
-The Horus Heresy, both the few books I've read, and mostly the models and Age of Darkness rulebook show a characterful and noble side of the Astartes. The Horus Heresy as a game leans heavily towards 'historical', with a focus on things like unit markings and other identifiers which I'd previously overlooked. There are strong features like back banners and crest-plume helmets that give a sense of Legion organisation. 
+The Horus Heresy, both the few books I've read, and mostly the models and Age of Darkness rulebook show a characterful and noble side of the Astartes. The Horus Heresy as a game leans heavily towards 'historical', with a focus on things like unit markings and other identifiers which I'd previously overlooked. There are strong features like back banners and crest-plume helmets that give a sense of Legion organisation, but they also make each Astartes an individual.
 
-This baroque aesthetic was something I came around to gradually while looking at Migsula's Blood Angel project. I'd loved the previous Alpha Legion project with it's realistic, gritty colours. It was exactly what I expected the Alpha Legion to look like. When I saw the Blood Angels - candy red and with themes of gold, richness, and religious undertones - I was surprised and disappointed. It didn't fit with my image of Space Marines. But as time went on I realised these aspects were entirely within the realm and the art, and it was a lack of understanding on my part. I've studied the Blood Angels project very closely and let it inform both my view of the Astartes and what I want my painting to look like. 
+The baroque aesthetic was something I came around to gradually while looking at Migsula's Blood Angel project. I'd loved Migsula's previous Alpha Legion project with it's realistic, gritty colours. It was exactly what I expected the Alpha Legion to look like. When I saw the Blood Angels - candy red and with themes of gold, richness, and religious undertones - I was surprised and disappointed. It didn't fit with my image of Space Marines. But as time went on I realised these aspects were entirely within the realm and the art, and it was a lack of understanding on my part. I've studied the Blood Angels project very closely and let it inform both my view of the Astartes and what I want my painting to look like. 
 
 
 ### My experience with Space Marines
@@ -56,17 +74,17 @@ I'd already copied Migsula's Alpha Legion (*copied* isn't quite the right word -
 
 The army also suffered from inconsistent theming: the base of the army was from the 2018/2019 launch box models, which included Infiltrators, Eliminators, and other Phobos marines (suiting the Alpha Legion theme) and some later launch box models like the Gravis Captain, Assault Intercessors, Blade Guard (elements of Knights in armour), and Suppressors and Inceptors (bulky, futuristic fliers). Those represented three distinct visuals, though I didn't realise it at the time (and don't think that was really my fault, since GW seemed to be going through a crisis of identity with the release of the Primaris Marines). 
 
-By late in 2024 I knew I'd missed the mark with that army and knew that at some point, I wanted to do a Space Marine army that made use of things like unit markings and had a clear internal command structure. I knew I wanted to include the baroque aesthetic and paint to a high quality like Migsula (note, not *only* in the styleMigsula, but the other Iron Sleet painters, and the many talented people I follow on Instagram). 
+By late in 2024 I knew I'd missed the mark with that army and knew that at some point, I wanted to do a Space Marine army that made use of things like unit markings and had a clear internal command structure. I knew I wanted to include the baroque aesthetic and paint to a high quality, which included finishing all the details like eye lenses and leather pouches (which I was very guilty of overlooking in the past). 
 
 ### Early impressions
 
 One of the numerous collections I have saved on Instagram I've named "Space Marine Classic" - the pipedream that at some point I'll paint a Space Marine army using firstborn models from around GW's 3rd edition/early 2000's. This is mostly inspired by my constant re-reading of White Dwarf magazines from around that time. These are two examples:
 
-![Ultramarine Chapter](../Hobby_Diary/images/references/Ultramarines_Chapter.jpg)
+![Ultramarine Chapter](../hobby_diary/images/references/Ultramarines_Chapter.jpg)
 
 I think I must have seen this image, or something like it, on one of my first ever visits to a store that sold Warhammer. Or maybe I saw it in a book that someone had at school. I don't know, but that blue, red and white, all massed together, is a strongly nostalgic image. 
 
-![Black Templars in White Dwarf](../Hobby_Diary/images/references/Black_Templars_WD.png)
+![Black Templars in White Dwarf](../hobby_diary/images/references/Black_Templars_WD.png)
 
 In the first WD I owned there was an early article about a hobbyist's experience collecting Black Templars. At the time I owned some Warhammer Fantasy (having bought the 6th Edition Starter Box). Warhammer 40k, and Space Marines in general, were a mystery to me. I remember the article discussing the process of collecting the miniatures during a time before there was much lore for the Black Templars, and assembling most of the models with boltguns. When new lore came out describing them as more combat focused, the hobbyist clipped off the boltgun arms and swapped them for chainswords. There was a lot to really enjoy in that article, including an amazing group shot of the models (including a converted dreadnaught) and, what I later realised was actually a photo of Graham Davies' Black Legion. 
 
@@ -81,19 +99,19 @@ The key theme I keep returning to is the importance of picking something I have 
 
 I knew a bit about the Black Templars from a few WD articles: the collecting article described above, and a battle report against Orks in the desert. I knew they are close combat oriented (a plus), are descendants of Imperial Fists, and have a strong affiliation with religous artifacts and symbols. I was confident I could paint them in a scheme using black armour like what I'd used for my Chaos Knights for Warhammer Fantasy. I really enjoyed painting these models and thought I could easily transport that scheme onto the Black Templars. During some reading and research I came across the Cult of Paint series on the Black Templars Army project, and I was really inspired by the available collection of models focused on the Black Templars. I decided there was enough going in the direction of Black Templars that I would just go for it and see how it felt - a bit risky, but at the end of the day if I just painted a single unit it wasn't too much of a commitment. Friday after work I ordered a Black Templar Crusader squad from my local games store. That evening I worked on a test model for the scheme using an Intercessor.
 
-![Black Templar test model](../Hobby_Diary/images/astartes_test_models/Black_Templar_wip.jpg)
+![Black Templar test model](../hobby_diary/images/astartes_test_models/Black_Templar_wip.jpg)
 
 At this point, I felt I had made a grave mistake. I could not get the colour scheme working how I wanted (partially because it required a dark grey and then a dark metal, which I didn't have). I couldn't get the right amount of definition onto the face plate, and it wasn't the type of place I wanted to add battle damage, so it had the opposite effect of drawing the eye to the head/face. I went to bed Friday night with a bit of regret. But, since I'd ordered this box I figured I needed to perservere here. I knew I could try some other things in terms of painting black armour if required, so I carried on. This is where the model stands as of now:
 
-![Black Templar](../Hobby_Diary/images/astartes_test_models/Black_Templar_1.jpg)
+![Black Templar](../hobby_diary/images/astartes_test_models/Black_Templar_1.jpg)
 
-![Black Templar](../Hobby_Diary/images/astartes_test_models/Black_Templar_2.jpg)
+![Black Templar](../hobby_diary/images/astartes_test_models/Black_Templar_2.jpg)
 
-![Black Templar](../Hobby_Diary/images/astartes_test_models/Black_Templar_3.jpg)
+![Black Templar](../hobby_diar/images/astartes_test_models/Black_Templar_3.jpg)
 
 I like this a lot more. The templar imagery on the shoulder pads helps, I enjoyed doing the checkers, I like the yellow eyes, and I originally had the knee pad in half yellow (but added a too-large red circle within the yellow half, which made it look like an awkward smiley face). The black metal has worked out *ok*, and with more time and effort (and a dark grey and metal) I think it will work. I've added Contrast Guilliman Flesh as a recess wash on lots of the armour panels to give warmth and visual interest, which I'll continue to build up until I'm happy with it. The shoulder pads are a little rough, with diluted Contrast Guilliman Flesh as shading. I'm happier with the model in-person than in the photos, and when seen from a distance I think the effect is better:
 
-![Black Templar](../Hobby_Diary/images/astartes_test_models/Black_Templar_Distant.jpg)
+![Black Templar](../hobby_diary/images/astartes_test_models/Black_Templar_Distant.jpg)
 
 I think this has the potential to be really cohesive, properly invoking the Space Marine Classic feeling. Simultaneously, there's space for individuality in iconography, and I can go quite deep on the detailing of the armour. I'm keen to really work on details like the eye lenses, leather belts and purity seals.
 
