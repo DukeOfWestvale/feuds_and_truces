@@ -1,0 +1,14 @@
+body {
+  background-color: #111827;
+  color: #e5e7eb;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+  font-size: 1.05rem;
+  margin: 0;
+  padding: 2rem 1rem;
+}
+
+main {
+  max-width: 1200px;    /* let it be much wider */
+  margin: 0 auto;       /* center within body */
+}

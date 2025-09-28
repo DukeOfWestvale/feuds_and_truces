@@ -1,0 +1,7 @@
+---
+title: "Projects"
+author: Duke of Westvale
+date: today
+---
+
+A project organisation directory.

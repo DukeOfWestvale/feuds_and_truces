@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Website"
+  sidebar:
+    style: "docked"
+    type: "dark"
+    search: true
+    contents: auto
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Hobby_Diary/index.qmd
+        text: Hobby Diary
+      - href: projects/index.qmd
+        text: Projects
+
+
+format:
+  html:
+    css: /styles.css
+    toc: true
