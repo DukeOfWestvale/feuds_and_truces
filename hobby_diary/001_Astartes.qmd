@@ -1,14 +1,13 @@
 ---
 title: "Episode 001: Astartes"
 subtitle: "A Black Templars Project and some test models"
-toc: true
+# toc: true
 ---
-
 
 
 # Introduction
 
-This is the story of how I set out to paint some Warhammer Fantasy Chaos Warriors and ended up starting a Black Templars collection. The crux of this hobby diary entry is how important nostalgia and a sense of *connection* to what I'm painting is important to me. 
+This is the story of how I set out to paint some Warhammer Fantasy Chaos Warriors and ended up starting a Black Templars collection. The crux of this hobby diary entry is how important nostalgia and a sense of *connection* to what I'm painting is to me. 
 
 As mentioned on the Introduction page, this site is actually the third iteration of my hobby diary (the first being some random word documents, the second a physical journal). When I moved to Luxembourg a just under two months ago I started to write in a physical book again, since I find it more relaxing than typing, but have since switched to this digital version. After finally getting into painting some test models (below), I wrote a piece of lore in support of an idea for a Blood Angels Successor homebrew chapter (The Lunar Sanguinomancers) and outlined some information about my painting process. At the end of writing, I also made a physical note to myself that while I really liked the rules for the Blood Angels, they weren't really a chapter I had any real connection to. 
 
@@ -22,8 +21,8 @@ After so long away from any form of painting I was expecting to dive into my War
 
 #### Salamander
 
-![Salamander](../hobby_Diary/images/astartes_test_models/Salamanders_1.jpg)
-![Salamander](../hobby_Diary/images/astartes_test_models/Salamanders_2.jpg)
+![Salamander](../hobby_diary/images/astartes_test_models/Salamanders_1.jpg)
+![Salamander](../hobby_diary/images/astartes_test_models/Salamanders_2.jpg)
 
 First up was a test model for the Salamanders, wet blending and stippling a dark green (Army Painter Hardened Carapace), lighter green (Necrotic Flesh) and yellow (Desert Yellow), with black shoulder pads (Contrast Black Templar). I'm somewhat happy with the result, though before I completely finished I realised that the colour scheme just doesn't pop enough. It's essentially drab green, rather than vibrant, and unlike the previous test model I'd done for Salamanders with oil over metallics, it didn't excite me. 
 
@@ -107,7 +106,7 @@ At this point, I felt I had made a grave mistake. I could not get the colour sch
 
 ![Black Templar](../hobby_diary/images/astartes_test_models/Black_Templar_2.jpg)
 
-![Black Templar](../hobby_diar/images/astartes_test_models/Black_Templar_3.jpg)
+![Black Templar](../hobby_diary/images/astartes_test_models/Black_Templar_3.jpg)
 
 I like this a lot more. The templar imagery on the shoulder pads helps, I enjoyed doing the checkers, I like the yellow eyes, and I originally had the knee pad in half yellow (but added a too-large red circle within the yellow half, which made it look like an awkward smiley face). The black metal has worked out *ok*, and with more time and effort (and a dark grey and metal) I think it will work. I've added Contrast Guilliman Flesh as a recess wash on lots of the armour panels to give warmth and visual interest, which I'll continue to build up until I'm happy with it. The shoulder pads are a little rough, with diluted Contrast Guilliman Flesh as shading. I'm happier with the model in-person than in the photos, and when seen from a distance I think the effect is better:
 

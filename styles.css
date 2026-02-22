@@ -1,14 +1,39 @@
-body {
-  background-color: #111827;
-  color: #e5e7eb;
-  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.7;
-  font-size: 1.05rem;
+/* -----------------------------------
+   1. Global resets and layout tweaks
+------------------------------------ */
+html, body {
   margin: 0;
-  padding: 2rem 1rem;
+  padding: 0;
+  overflow-x: hidden;  /* Prevent horizontal scroll caused by full-width */
 }
 
-main {
-  max-width: 1200px;    /* let it be much wider */
-  margin: 0 auto;       /* center within body */
+main, .page-columns, .content {
+  margin: 0;
+  padding: 0;
 }
+
+
+/* -----------------------------------
+   2. Banner image styling
+------------------------------------ */
+.banner-img {
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  width: 100vw;
+  max-width: 100vw;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  z-index: 1;
+}
+/* Remove extra spacing from containers */
+body, main, .page-columns, .content {
+  padding: 0;
+  margin: 0;
+}
+
+/* -----------------------------------
+   3. Optional: Typography or other custom styles
+------------------------------------ */
+/* e.g., change font or tweak headings here */

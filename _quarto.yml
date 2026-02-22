@@ -4,11 +4,11 @@ project:
 
 website:
   title: "My Website"
-  sidebar:
-    style: "docked"
-    type: "dark"
-    search: true
-    contents: auto
+#  sidebar:
+#    style: "docked"
+#    type: "dark"
+#    search: true
+#    contents: auto
 
   navbar:
     left:
@@ -22,5 +22,7 @@ website:
 
 format:
   html:
-    css: /styles.css
+#    theme: cosmo
+    css: styles.css
     toc: true
+

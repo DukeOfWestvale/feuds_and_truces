@@ -1,8 +1,15 @@
 ---
 title: "Feuds and Truces"
 author: Duke of Westvale
-date: 2025-09-28
+format:
+  html:
+    page-layout: full
+    toc: true
 ---
+
+
+![](/images/chaos_knights_1.jpg){.banner-img}
+
 
 "Politics: gangs, wars, truces. Nothing I didn't already know."
 
