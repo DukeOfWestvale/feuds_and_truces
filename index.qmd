@@ -1,10 +1,7 @@
 ---
 title: "Feuds and Truces"
 author: Duke of Westvale
-format:
-  html:
-    page-layout: full
-    toc: true
+
 ---
 
 
