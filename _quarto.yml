@@ -16,6 +16,8 @@ website:
         text: Home
       - href: Hobby_Diary/index.qmd
         text: Hobby Diary
+      - href: Hobby_Diary/001_Astartes.qmd
+        text: Hobby Diary
       - href: projects/index.qmd
         text: Projects
 
